@@ -4,8 +4,8 @@ fetch
 idk 
 
 ### How to use this 
-uhhh, just run this trust me bro 
+uhhh, just run this  trust me bro 
 ```
-curl -fsSL https://raw.githubusercontent.com/notadevloper/fetchfetchfetchfetchfetchfetchfetchfetchfetchfetchfetchfetchfetchfetchfetch/refs/heads/main/thing.sh | bash  
+wget https://raw.githubusercontent.com/notadevloper/fetchfetchfetchfetchfetchfetchfetchfetchfetchfetchfetchfetchfetchfetchfetch/refs/heads/main/thing.sh && chmod +x thing.sh && ./thing.sh 
 ```
  
