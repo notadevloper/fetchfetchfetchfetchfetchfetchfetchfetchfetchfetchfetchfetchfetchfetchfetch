@@ -5,6 +5,8 @@ git clone https://aur.archlinux.org/yay.git
 cd yay 
 makepkg -si 
 if command -v yay >/dev/null; then 
+echo ''
+else 
 echo r/changeyourpc 
 fi 
 sudo pacman -S fastfetch screenfetch uwufetch hyfetch countryfetch macchina cpufetch --noconfirm 
